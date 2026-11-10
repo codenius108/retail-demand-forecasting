@@ -1,0 +1,5 @@
+model,MAE,RMSE
+linear_sales_only,1116.93,1557.84
+linear_all,1098.98,1553.38
+rf_sales_only,1137.07,1599.84
+rf_all,1058.42,1518.89

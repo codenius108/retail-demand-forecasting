@@ -1,0 +1,21 @@
+model,window,MAE
+base,1,1137.07
+base,2,1424.76
+base,3,1125.68
+base,average,1229.17
+base + calendar,1,929.67
+base + calendar,2,1133.68
+base + calendar,3,956.99
+base + calendar,average,1006.78
+base + calendar + weather,1,887.82
+base + calendar + weather,2,1168.71
+base + calendar + weather,3,922.73
+base + calendar + weather,average,993.08
+base + calendar + trends,1,1061.58
+base + calendar + trends,2,1138.11
+base + calendar + trends,3,910.93
+base + calendar + trends,average,1036.88
+base + calendar + weather + trends,1,1057.87
+base + calendar + weather + trends,2,1120.58
+base + calendar + weather + trends,3,883.24
+base + calendar + weather + trends,average,1020.56
